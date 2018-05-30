@@ -12,11 +12,12 @@ By the end of this course, you will not only have created two complete great gam
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>&nbsp;Create a game engine which you use to create your own games. 
-<LI>learn how to create a code that is generic so that it can be used in multiple scenarios or games. 
-<LI>See the differences between the two main mobile platforms and how they should develop their apps to accommodate this. 
-<LI>Know how to create a game from concept to final release, which can then be released to multiple platforms. 
-<LI>Practice release and monetization of your game as well as how to update your game to add new content or fix any issues. </LI></UL></DIV>
+<LI>&nbsp;Work with Unity 2017's new 2D workflow and create a 2D scene 
+<LI>Set the scene with different types of backgrounds
+<LI>Bring your character to life through simple animations 
+<LI>Understand the core concepts of programming
+<L1>Create buttons and game controls 
+<LI>Add audio and feedback. </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
